@@ -1,0 +1,5 @@
+interface:
+  display_name: "个人 IP 文章插画"
+  short_description: "创建并复用个人IP，生成白底留白的水彩隐喻文章插图"
+  brand_color: "#D79B54"
+  default_prompt: "Use $personal-ip-article-illustrations to create or select my personal IP, illustrate this article with consistent 16:9 editorial images, and build a review sheet."

@@ -1,0 +1,15 @@
+{
+  "title": "文章配图审片",
+  "subtitle": "当前 IP：Example Creator",
+  "sections": [
+    {
+      "title": "第一组 · 核心判断",
+      "items": [
+        {
+          "path": "01-core-idea.png",
+          "caption": "01 · 核心判断 · 建议放在开头之后"
+        }
+      ]
+    }
+  ]
+}

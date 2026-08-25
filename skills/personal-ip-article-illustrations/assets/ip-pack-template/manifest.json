@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "example-ip",
+  "displayName": "Example IP",
+  "style": "white-space-watercolor-editorial",
+  "assets": {
+    "turnaround": "assets/turnaround.png",
+    "turnaroundSha256": "replace-with-sha256"
+  },
+  "characterSpec": "references/character-spec.md",
+  "license": "private"
+}
